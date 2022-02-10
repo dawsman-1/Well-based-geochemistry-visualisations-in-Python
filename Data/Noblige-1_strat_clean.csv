@@ -1,0 +1,22 @@
+Formation,Marker,Prognosed Depth (mTVDss MSL),Actual Depth (mTVDss MSL),Difference (metres)
+Seabed,WB,1316.2 +/- 20,1313.2,3
+Top Bare Formation,T40.0 (TM1),1476.2 +/- 20,1482.7,-6.5
+Top Walcott / Wilcox Fms.,T30.0 (TO),1544.2 +/- 25,1558.2,-14
+Lower Walcott Fm,T27.1 (TE),1685.2 +/- 25,1703.2,-18
+Top Miria / Withnell Fms.,T10.0 (T),2017.2 +/- 25,2006.6,10.6
+Top Toolonga Calcilutite,K60.0 (KS/C),2305.2 +/- 30,2300.7,4.5
+Top Haycock,K50.0 (KC),2435.2 +/- 30,2421.7,13.5
+Top Muderong Fm,K40.0 (KA),2582.2 +/- 30,2568.3,13.9
+Top Forestier Claystone,K20.0 (KV),2688.2 +/- 30,2673.7,14.5
+Top Murat Fm,J40.0 (JO),2784.2 +/- 35,2771.2,13
+Top Mungaroo Fm,TR30.1 (TRR),2879.2 +/- 35,2860,19.2
+Intra-Mungaroo Fm,TR27.2_MFS (MCM52),3123.2 +/- 30,3119.9,-3.3
+Intra-Mungaroo Fm,TR26.7_TS,3240.2 +/- 30,3249.6,9.4
+Intra-Mungaroo Fm,TR26.1_TS (MCT42),3407.2 +/- 40,3422.8,-15.6
+Intra-Mungaroo Fm,TR22.7_TS,3742.2 +/- 40,3777.4,-35.2
+Intra-Mungaroo Fm,TR22.1_TS (MCT12),3808.2 +/- 40,3855.1,-46.9
+Intra-Mungaroo Fm,MCT11,3865.2 +/- 45,3899.7,-34.5
+Intra-Mungaroo Fm,TR21.1_TS (MCT5),3925.2 +/- 45,3967.2,-42
+Intra-Mungaroo Fm,TR21.0_SB (MCS2),4000.2 +/- 45,4043.7,-43.5
+Intra-Mungaroo Fm,TR20.7_TS (TRC2),4267.2 +/- 45,4327.7,-60.5
+Total Depth,TD,4671.2 +/- 50,4551.7,
