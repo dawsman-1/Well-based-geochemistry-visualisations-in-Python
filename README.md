@@ -5,4 +5,4 @@ The raw data used includes petrophysical logs, mudgas and drilling parameters, a
 
 All data is open-file and publicly available, and was downloaded from https://nopims.dmp.wa.gov.au/nopims
 
-https://dawsman-1.github.io/Well-based-geochemistry-visualisations-in-Python/
+Visualisation examples: https://dawsman-1.github.io/Well-based-geochemistry-visualisations-in-Python/
