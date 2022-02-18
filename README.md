@@ -7,4 +7,13 @@ All raw data used is open-file and publicly available, and was downloaded from h
 
 Interactive visualisation examples can be seen here: https://dawsman-1.github.io/Well-based-geochemistry-visualisations-in-Python/
 
+## Dependencies
+* pandas
+* numpy
+* lasio
+* tabula
+* plotly
+
+<br/>
+
 ![alt text](https://github.com/dawsman-1/Well-based-geochemistry-visualisations-in-Python/blob/main/Data/Noblige_plot_for_readme.png?raw=true)
